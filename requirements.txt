@@ -1,0 +1,9 @@
+# Versions the model was trained and saved with. xgboost-cpu is the same xgboost 3.4.1 without the GPU libraries.
+streamlit==1.66.1
+scikit-learn==1.9.1
+xgboost-cpu==3.4.1
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+joblib==1.6.0
+openpyxl==3.1.5
